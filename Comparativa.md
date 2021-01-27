@@ -12,7 +12,8 @@ Si bien **NGINX y Apache** tienen soporte por correo y un foro de Stack Overflow
 Rendimiento: NGINX puede ejecutar simultáneamente 1000 conexiones de contenido estático dos veces más rápido que Apache y usa un poco menos de memoria.
 Sin embargo, cuando se comparan por su rendimiento en la ejecución de contenido dinámico, ambos tienen la misma velocidad.  
 
-**NGINX** es una mejor opción para aquellos que tienen un sitio web más estático.  
+**NGINX** es una mejor opción para aquellos que tienen un sitio web más estático.
+![comparativa](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/nginxvsapache.png)
 
 ## Conclusión  
 
