@@ -16,6 +16,8 @@ En este proyecto estudiaremos y explicaremos la forma de montar un servidor web 
 
 - [Nginx](https://kinsta.com/es/base-de-conocimiento/que-es-nginx/)  
 - [¿Qué es nginx?](https://www.hostinger.es/tutoriales/que-es-nginx/)
+- [Comandos principales](https://es.linux-console.net/?p=25)
+
 
 ## Licencia
 
