@@ -5,4 +5,4 @@
 ![Versión](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/version.png)  
 
 ## 2. Servicios asociados
-''' systemctl enable nginx '''
+'''systemctl enable nginx'''
