@@ -10,7 +10,8 @@ Desafortunadamente, el rendimiento de NGINX en Windows no es tan bueno como en o
 **Soporte al usuario:** Los usuarios, que van desde novatos hasta profesionales, siempre necesitan una buena comunidad que les pueda ayudar cuando enfrenten problemas.
 Si bien **NGINX y Apache** tienen soporte por correo y un foro de Stack Overflow, Apache carece de soporte por parte de su compañía, la Apache Foundation.
 Rendimiento: NGINX puede ejecutar simultáneamente 1000 conexiones de contenido estático dos veces más rápido que Apache y usa un poco menos de memoria.
-Sin embargo, cuando se comparan por su rendimiento en la ejecución de contenido dinámico, ambos tienen la misma velocidad. 
+Sin embargo, cuando se comparan por su rendimiento en la ejecución de contenido dinámico, ambos tienen la misma velocidad.  
+
 **NGINX** es una mejor opción para aquellos que tienen un sitio web más estático.  
 
 ## Conclusión  
