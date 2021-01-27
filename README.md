@@ -9,7 +9,7 @@ En este proyecto estudiaremos y explicaremos la forma de montar un servidor web 
 1. [ Introducción ](https://github.com/anasalasro/Nginx/blob/main/Introduccion.md)  
 2. [ Comparativa con Apache ](https://github.com/anasalasro/Nginx/blob/main/Comparativa.md)  
 3. [ Esquema de red ](https://github.com/anasalasro/Nginx/blob/main/esquemadered.md)  
-4. [ Instalación ](https://github.com/anasalasro/docker-portainer/blob/main/webpersonalizada.md)
+4. [ Instalación ](https://github.com/anasalasro/Nginx/blob/main/instalacion.md)
 5. [ Casos prácticos ](https://github.com/anasalasro/docker-portainer/blob/main/conclusion.md)
 
 ## Referencias
