@@ -8,3 +8,9 @@
 - Habilitar el servicio  
 
 ```systemctl enable nginx```
+- Deshabilitar el servicio  
+
+```systemctl disable nginx```
+- Iniciar el servicio  
+
+```systemctl start nginx```
