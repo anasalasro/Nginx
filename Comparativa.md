@@ -1,4 +1,5 @@
 # NGINX vs Apache  
+![comparativa](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/nginxvsapache2.png)
 
 Entre los servidores web populares, **Apache** es uno de los principales rivales de **NGINX**. Ha existido desde los años 90 y cuenta con una gran comunidad de usuarios.
 Si tienes curiosidad por saber cuál es el mejor servidor web según tus necesidades, dale vistazo a esta breve e informativa comparación entre NGINX y Apache.
