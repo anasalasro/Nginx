@@ -5,5 +5,6 @@
 ![Versión](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/version.png)  
 
 ## 2. Servicios asociados
--. Habilitar el servicio
+- Habilitar el servicio  
+
 ```systemctl enable nginx```
