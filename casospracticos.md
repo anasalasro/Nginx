@@ -8,9 +8,15 @@
 - Habilitar el servicio  
 
 ```systemctl enable nginx```
+
 - Deshabilitar el servicio  
 
 ```systemctl disable nginx```
+
 - Iniciar el servicio  
 
 ```systemctl start nginx```
+
+- Ver el estado en el que se encuentra  
+
+`systemctl status nginx`
