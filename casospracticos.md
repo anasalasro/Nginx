@@ -20,3 +20,5 @@
 - Ver el estado en el que se encuentra  
 
 `systemctl status nginx`
+
+## 3. Ficheros de configuración
