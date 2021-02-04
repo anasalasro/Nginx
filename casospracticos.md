@@ -50,8 +50,11 @@ Mediante la ruta ` vi /var/www/html/index.nginx-debian.html` modificamos la web 
 ![Ficheros](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/creararchivoconfweb1y2.png) 
 
   - Y los configuramos  
-  
-![web1](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/configuracionweb1.png)
+    -web1  
+![web1](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/configuracionweb1.png)  
+
+    -web2  
+    
 ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/configuracionweb2.png)  
 
   - Comprobamos que sea correcta  
