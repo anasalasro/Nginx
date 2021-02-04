@@ -51,10 +51,10 @@ Mediante la ruta ` vi /var/www/html/index.nginx-debian.html` modificamos la web 
 
   - Y los configuramos  
   
-    - **web1**  
+   - **web1**  
 ![web1](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/configuracionweb1.png)  
 
-    - **web2**  
+   - **web2**  
     
 ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/configuracionweb2.png)  
 
@@ -82,11 +82,11 @@ Mediante la ruta ` vi /var/www/html/index.nginx-debian.html` modificamos la web 
 
   1. Modificamos la configuración de los sitios virtuales y la añadimos la red para que puedan acceder solo ese ragndo de IP  
   
-    - web1  
+   - web1  
     
   ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/acessored2y3.png)  
   
-    - web2  
+   - web2  
     
   ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/acessored3web2.png)  
   
