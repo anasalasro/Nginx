@@ -1,5 +1,5 @@
 # Nginx
-
+![logoNginx](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/nginx.png)
 ## Descripción
 
 En este proyecto estudiaremos y explicaremos la forma de montar un servidor web con nginx.
