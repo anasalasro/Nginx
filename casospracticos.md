@@ -106,23 +106,23 @@ Mediante la ruta ` vi /var/www/html/index.nginx-debian.html` modificamos la web 
   
   ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/directorioprivado.png)  
   
-    - Añadimos los usuarios que pueden acceder a ese directorio  
+   - Añadimos los usuarios que pueden acceder a ese directorio  
     
-    ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/creamosusuarios.png)  
+   ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/creamosusuarios.png)  
+
+   - Cambiamos la configuiración de web1 para habilitar la autentifición  
     
-    - Cambiamos la configuiración de web1 para habilitar la autentifición  
+   ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/configurarweb1autentificacion.png)  
     
-    ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/configurarweb1autentificacion.png)  
+   - Comprobamos  
+   
+   ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/autentificacionweb1.png)  
     
-     - Comprobamos  
+   ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/autentificacionusuario.png)  
     
-    ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/autentificacionweb1.png)  
+   - Cambiamos la configuiración de web1 para habilitar la autentifición de la red externa pero de la interna no  
     
-    ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/autentificacionusuario.png)  
-    
-    - Cambiamos la configuiración de web1 para habilitar la autentifición de la red externa pero de la interna no  
-    
-    ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/configurarweb1autentificacion.png)  
+   ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/configurarweb1autentificacion.png)  
     
     
 
