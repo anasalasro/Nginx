@@ -122,7 +122,12 @@ Mediante la ruta ` vi /var/www/html/index.nginx-debian.html` modificamos la web 
     
    - Cambiamos la configuiración de web1 para habilitar la autentifición de la red externa pero de la interna no  
     
-   ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/configurarweb1autentificacion.png)  
+   ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/configuracionrestricted.png)  
     
+   - Reiniciamos con `systemctl restart nginx.service`  
+   
+   - Comprobamos  
+   
+   ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/comprobacionrestricted.png)  
     
-
+## 7. Seguridad y certificados 
