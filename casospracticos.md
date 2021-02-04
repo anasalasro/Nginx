@@ -70,11 +70,36 @@ Mediante la ruta ` vi /var/www/html/index.nginx-debian.html` modificamos la web 
     
     ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/etchosts2.png)  
     
-    - Máquiona externa  
+    - Máquina externa  
     
     ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/etchosts.png)  
     
 - Comprobamos que podemos acceder  
 
-![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/comprobacionesweb1y2.png)
+![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/comprobacionesweb1y2.png)  
+
+## 6. Autentificación, autorización y control de acceso  
+
+  - Modificamos la configuración de los sitios virtuales y la añadimos la red para que puedan acceder solo ese ragndo de IP  
+  
+    - web1  
+    
+  ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/acessored2y3.png)  
+  
+    - web2  
+    
+  ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/acessored3web2.png)  
+  
+  - Reiniciamos con `systemctl restart nginx.service`  
+  
+  - Comprobamos  
+  
+     - Máquina interna tiene acceso a ambas  
+    
+    ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/maquinainternaweb1y2.png)  
+    
+    - Máquina externa solo tiene acceso a la web1  
+    
+    ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/maquinaexternasinweb2.png)  
+  
 
