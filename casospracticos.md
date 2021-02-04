@@ -131,3 +131,25 @@ Mediante la ruta ` vi /var/www/html/index.nginx-debian.html` modificamos la web 
    ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/comprobacionrestricted.png)  
     
 ## 7. Seguridad y certificados 
+
+  1. Creamos una carpeta donde añadiremos los certificados 
+  
+   - Y generamos la key
+    
+  ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/crearcertificados.png)
+  
+   - Generamos el certificado sin firmar
+    
+  ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/generamoselcertificadosinfirmar.png)
+  
+   - Y firmamos el certificado
+    
+  ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/firmacertificado.png)  
+  
+  - Cambiamos la configuiración de web1 para añadir los certificados  
+    
+   ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/configuracionweb1segura.png)  
+    
+- Comprobamos  
+   
+   ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/comprobacionweb1segura.png)  
