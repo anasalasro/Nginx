@@ -22,3 +22,8 @@
 `systemctl status nginx`
 
 ## 3. Ficheros de configuración
+En **/etc/nginx** encontraremos los ficheros de configuración
+![Ficheros](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/ficherosconf.png)  
+  - El fichero principal es: `/etc/nginx/nginx.conf`
+  - Los sitios virtuales se guardan en: `/etc/nginx/sites-available`
+  - Los LOGS se guardan en: `/var/log/nginx`
