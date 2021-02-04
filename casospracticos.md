@@ -80,7 +80,7 @@ Mediante la ruta ` vi /var/www/html/index.nginx-debian.html` modificamos la web 
 
 ## 6. Autentificación, autorización y control de acceso  
 
-  - Modificamos la configuración de los sitios virtuales y la añadimos la red para que puedan acceder solo ese ragndo de IP  
+  1. Modificamos la configuración de los sitios virtuales y la añadimos la red para que puedan acceder solo ese ragndo de IP  
   
     - web1  
     
@@ -101,5 +101,28 @@ Mediante la ruta ` vi /var/www/html/index.nginx-debian.html` modificamos la web 
     - Máquina externa solo tiene acceso a la web1  
     
     ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/maquinaexternasinweb2.png)  
+    
+  2. Creamos un directorio privado  
   
+  ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/directorioprivado.png)  
+  
+    - Añadimos los usuarios que pueden acceder a ese directorio  
+    
+    ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/creamosusuarios.png)  
+    
+    - Cambiamos la configuiración de web1 para habilitar la autentifición  
+    
+    ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/configurarweb1autentificacion.png)  
+    
+     - Comprobamos  
+    
+    ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/autentificacionweb1.png)  
+    
+    ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/autentificacionusuario.png)  
+    
+    - Cambiamos la configuiración de web1 para habilitar la autentifición de la red externa pero de la interna no  
+    
+    ![web2](https://github.com/anasalasro/Nginx/blob/main/tareaNginx/configurarweb1autentificacion.png)  
+    
+    
 
